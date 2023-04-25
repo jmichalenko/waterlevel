@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="=1G+LEmTq*y)BTZGqg0m">water level</variable><variable id="Xk,z^UI~U7(O6c:5`Uh{">min level</variable></variables><block type="pxt-on-start" id="t=oQ2gF=%KC3JUe-oZg4" x="0" y="0"></block><block type="device_forever" id="!!q/q#e5_%!vr3+d9_c`" x="205" y="0"></block></xml>
